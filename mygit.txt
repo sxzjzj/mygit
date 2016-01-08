@@ -1,1 +1,2 @@
 generate from gui
+check the username and pw
