@@ -1,2 +1,2 @@
 generate from gui
-"check the username and pw"
+"check the username and pw",add this
