@@ -1,0 +1,5 @@
+add same branch in same repo in differenct ws
+make a change after reset to TAG LEN1
+update this file at better_jane
+make second change with this file after make a tag LEN
+this is the first file to test the connection between local and github
